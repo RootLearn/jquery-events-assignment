@@ -135,6 +135,15 @@ li{
 	border: solid 5px #ccc;
 }
 
+.highlight_stream {
+  color: red;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+li:hover{
+  cursor: pointer;
+}
 
 @media screen and (max-width: 700px){
 	ul{
